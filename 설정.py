@@ -1,4 +1,4 @@
-봇_토큰 = "MTQ5Nzg1Nzg5NjM1NDkzODg5MA.G2Sq8y.cYB_u27gK74gK-J5rajw8bIokcJxpa1aUNhP94" #봇의 토큰
+봇_토큰 = "gAAAAABoAAABlV7uX3j6Q9Z1v3zR4t5y6U7i8O9p0A1s2D3f4G5h6J7k8L9m0N1b2V3c4X5z6Q7W8E9R0T1Y2U3I4O5P6A7S8D9F0G1H2J3K4L5M6N7B8V9C0X1Z=" #봇의 토큰
 관리자아이디 = [1497519314721570848] #라이센스 뽑을 수 있는 사람의 아이디
 API_엔드포인트 = "https://discord.com/api/v9"  #웬만해선 안건드려도됨
 클라이언트_아이디 = "1497857896354938890" #디스코드 개발자 센터 Oauth2 탭에 들어가면 있는 Client ID
